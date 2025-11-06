@@ -3,3 +3,4 @@
 *.js -linguist-detectable
 *.ipynb -linguist-detectable
 *.scss -linguist-detectable
+*.py -linguist-detectable
