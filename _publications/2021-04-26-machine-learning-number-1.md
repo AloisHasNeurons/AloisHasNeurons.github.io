@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning-based Lie Detector applied to a Novel Annotated Game Dataset"
 collection: publications
-category: article
+category: manuscripts
 permalink: /publication/2021-04-26-machine-learning-based-lie-detector
 excerpt: 'This paper is about machine learning.'
 date: 2021-04-26
